@@ -12,15 +12,18 @@
 - ⚡ Fun fact: I play piano
 - 🔨 2020 Goals: Make stable Evie build
 
+<br/>
 
 ## Contacts:
-[<img align="left" alt="Discord Server" width="22px" src="https://discord.com/assets/28174a34e77bb5e5310ced9f95cb480b.png">][Discord_Server]
-[<img align="left" alt="Gmail" width="22px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x.png">][Gmail]
+[<img align="left" alt="Discord Server" width="22px" src="https://discord.com/assets/28174a34e77bb5e5310ced9f95cb480b.png"/>][Discord_Server]
+[<img align="left" alt="Gmail" width="22px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x.png"/>][Gmail]
 
+<br/>
 
 ## Learned Programming languages:
-[<img align="left" alt="C++" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/150px-ISO_C%2B%2B_Logo.svg.png">][Cpp]
+[<img align="left" alt="C++" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/150px-ISO_C%2B%2B_Logo.svg.png"/>][Cpp]
 
+<br/>
 
 [Discord_Server]: https://discord.gg/hjf2ZNp
 [Gmail]: golzar.gabriel@gmail.com
