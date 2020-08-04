@@ -25,6 +25,9 @@
 
 <br/>
 
+<img align="left" alt="Gabidal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gabidal&show_icons=true&hide_border=true" />
+
+
 [Discord_Server]: https://discord.gg/hjf2ZNp
 [Gmail]: golzar.gabriel@gmail.com
 [Cpp]: https://en.wikipedia.org/wiki/C%2B%2B
