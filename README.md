@@ -15,8 +15,8 @@
 <br/>
 
 ## Contacts:
-[<img align="left" alt="Discord Server" width="22px" src="https://discord.com/assets/28174a34e77bb5e5310ced9f95cb480b.png"/>][Discord_Server]
-[<img align="left" alt="Gmail" width="22px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x.png"/>][Gmail]
+[<img align="left" alt="Discord Server" height="22px" src="https://discord.com/assets/94db9c3c1eba8a38a1fcf4f223294185.png"/>][Discord_Server]
+[<img align="left" alt="Gmail" height="22px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x.png"/>][Gmail]
 
 <br/>
 
