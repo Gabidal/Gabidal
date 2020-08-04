@@ -25,6 +25,7 @@
 
 <br/>
 
+## Stats:
 <img align="left" alt="Gabidal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gabidal&show_icons=true&hide_border=true" />
 
 
