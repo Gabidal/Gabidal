@@ -1,6 +1,6 @@
 # Hello! I'm Gabriel Golzar, but you can call me Gab.
 
-## I'm a Student, Programmer, Pianist
+## I'm a graduated IT programmer, Programmer, Pianist
 
 - 🔭 I’m currently making Evie self host
 - 🌱 I’m currently fixing Evie
