@@ -2,15 +2,15 @@
 
 ## I'm a graduated IT programmer, Programmer, Pianist
 
-- 🔭 I’m currently making Evie self host
-- 🌱 I’m currently fixing Evie
-<!-- - 👯 I’m looking to collaborate on memes -->
-- 🤔 I'm looking to implement different optimization algorithims
+- 🔭 I’m currently making Evie Assembler & Linker.
+- 🌱 I’m also currently fixing Evie.
+- 👯 Hit me up if you want to make music with me :D.
+- 🤔 I'm looking ways to improve my music making skills.
 - 💬 Ask me about enything
 <!-- - 📫 How to reach me: golzar.gabriel@gmail.com/ -->
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I play piano
-- 🔨 2021 Goals: Get Lexer on selfhost working
+- 🔨 2023 Goals: Get Lexer on selfhost working
 
 <br/>
 
