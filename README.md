@@ -1,13 +1,13 @@
 # Gabriel Golzar
 
-- **Active Task 🚀**: GGUI 0.1.8 – nearing completion.
+- **Active Task 🚀**: GGUI 0.1.8.5 – New dev cycle just started.
 - **Main Objective 🔄**: Evie – awaiting for re-write with new skills.  
-- **Collaboration 💬**: Open to discussions about compiler development or text-based user interfaces (TUIs).
-- **Goals 🌱💡**: Continuously enhancing my skills and contributing to meaningful projects. Collaboration ideas and innovative project proposals are always welcome!
+- **Collaboration 💬**: Open to discussions about compiler development or text-based user interfaces (TUIs). Collaboration ideas and innovative project proposals are always welcome!
+- **Goals 🌱💡**: Trying to hone my skills and learn to become #1 coder.
 - **Ask Me About 🤖💻**: Programming, compilers, TUIs, i also like creative and interesting projects.
-- **2025-Q1 Goal 🎯**: Successfully launch the GGUI 0.1.8 update.
+- **2026-Q1 Goal 🎯**: Successfully launch the GGUI 0.1.8.5 update. And start working on Evie re-write.
 - **Why❓**: I love being creative and coding is a great tool to be so.
-- **Additional Interests 🎶**: I also love making music.
+- **Additional Interests 🎶**: I also love making music. https://open.spotify.com/artist/0ZiWRBtdxRSMEGUmkWv9r7?si=vlWD9g4UQHOjUJbPSzeSkw
 <br>
 
 ## 📬 Contact Me:
