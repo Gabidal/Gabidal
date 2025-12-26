@@ -1,7 +1,7 @@
 # Gabriel Golzar
 
 - **Active Task 🚀**: GGUI 0.1.8.5 – New dev cycle just started.
-- **Main Objective 🔄**: Evie – awaiting for re-write with new skills.  
+- **Main Objective 🔄**: Evie – writing the preprocessor.
 - **Collaboration 💬**: Open to discussions about compiler development or text-based user interfaces (TUIs). Collaboration ideas and innovative project proposals are always welcome!
 - **Goals 🌱💡**: Trying to hone my skills and learn to become #1 coder.
 - **Ask Me About 🤖💻**: Programming, compilers, TUIs, i also like creative and interesting projects.
