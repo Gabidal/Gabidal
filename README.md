@@ -1,4 +1,4 @@
-# Gabriel Golzar
+# Gabi
 
 - **Active Task 🚀**: GGUI 0.1.8.5 – New dev cycle just started.
 - **Main Objective 🔄**: Evie – writing the preprocessor.
