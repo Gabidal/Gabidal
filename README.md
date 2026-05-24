@@ -7,7 +7,7 @@
 - **Ask Me About 🤖💻**: Programming, compilers, TUIs, i also like creative and interesting projects.
 - **2026-Q1 Goal 🎯**: Successfully launch the GGUI 0.1.8.5 update. And start working on Evie re-write.
 - **Why❓**: I love being creative and coding is a great tool to be so.
-- **Additional Interests 🎶**: I also love making music. [Spotify](https://open.spotify.com/artist/0ZiWRBtdxRSMEGUmkWv9r7?si=vlWD9g4UQHOjUJbPSzeSkw)
+- **Additional Interests 🎶**: I also love making music. [Spotify](https://open.spotify.com/artist/1XRQD1bavXHE5vVu77Y2xR?si=Tv-CgomvQyOG4gnbosSLDQ)
 <br>
 
 ## 📬 Contact Me:
