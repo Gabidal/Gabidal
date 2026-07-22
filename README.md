@@ -1,11 +1,11 @@
 # Gabi
 
-- **Active Task 🚀**: GGUI 0.1.9 – New dev cycle just started.
-- **Main Objective 🔄**: Evie compiler 2.0.
+- **Active Task 🚀**: GGUI 0.1.9 - about to be finished.
+- **Main Objective 🔄**: Standardize GGUI for 0.2 update.
 - **Collaboration 💬**: Open to discussions about compiler development or text-based user interfaces (TUIs).
-- **Goals 🌱💡**: Trying to hone my skills and learn to become #1 coder.
-- **Ask Me About 🤖💻**: Programming, compilers, TUIs and ecma-48/35 standard protocol. 
-- **2027 Goal 🎯**: Finish GGUI 0.1.9 and start GGUI 0.2.
+- **Goals 🌱💡**: Become someday the #1 coder.
+- **Ask Me About 🤖💻**: Programming, compilers, TUIs, ECMA-35/48, ITU-T T.416, and DEC VT100-525 terminals.
+- **2027 Goal 🎯**: Standardization of GGUI.
 - **Why❓**: I love being creative and coding is a great tool to be so.
 - **Additional Interests 🎶**: I also love making music. [Spotify](https://open.spotify.com/artist/1XRQD1bavXHE5vVu77Y2xR?si=Tv-CgomvQyOG4gnbosSLDQ)
 <br>
@@ -28,16 +28,13 @@
 
 x86-64
 
-<br>
-<br>
-<br>
-<br>
+<br clear="left"/>
 
 
 ## GitHub Stats:
 <img align="left"
-     alt="Gabidal's Github Stats"
+     alt="Gabi's Github Stats"
      src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabidal&show_icons=true&hide_border=true" />
 
 [Discord_Server]:https://discord.gg/UvE3Cr4fKF 
-[Gmail]:Gabriel.Golzar.Music@gmail.com
+[Gmail]: mailto:Golzar.Gabriel@gmail.com
