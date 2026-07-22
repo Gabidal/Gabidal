@@ -11,17 +11,21 @@
 <br>
 
 ## 📬 Contact Me:
-[<img align="left" alt="Discord Server" height="22px" src="https://discord.com/assets/94db9c3c1eba8a38a1fcf4f223294185.png"/>][Discord_Server]
-[<img align="left" alt="Gmail" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"/>][Gmail]
+
+[<img align="left" alt="Discord Server" height="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg"/>][Discord_Server]
+
+[<img align="left" alt="Gmail" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/>][Gmail]
 
 <br>
 
 ## Programming Languages:
-<img align="left" alt="C++" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/150px-ISO_C%2B%2B_Logo.svg.png"/>
-<img align="left" alt="Python" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"/>
+
+<img align="left" alt="C++" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>
+<img align="left" alt="Python" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
 <img align="left" alt="JavaScript" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>
 <img align="left" alt="TypeScript" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"/>
 <img align="left" alt="C#" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"/>
+
 x86-64
 
 <br>
@@ -31,7 +35,9 @@ x86-64
 
 
 ## GitHub Stats:
-<img align="left" alt="Gabidal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gabidal&show_icons=true&hide_border=true" />
+<img align="left"
+     alt="Gabidal's Github Stats"
+     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabidal&show_icons=true&hide_border=true" />
 
 [Discord_Server]:https://discord.gg/UvE3Cr4fKF 
 [Gmail]:Gabriel.Golzar.Music@gmail.com
