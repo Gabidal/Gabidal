@@ -1,11 +1,11 @@
 # Gabi
 
-- **Active Task 🚀**: GGUI 0.1.8.5 – New dev cycle just started.
-- **Main Objective 🔄**: Evie – writing the preprocessor.
-- **Collaboration 💬**: Open to discussions about compiler development or text-based user interfaces (TUIs). Collaboration ideas and innovative project proposals are always welcome!
+- **Active Task 🚀**: GGUI 0.1.9 – New dev cycle just started.
+- **Main Objective 🔄**: Evie compiler 2.0.
+- **Collaboration 💬**: Open to discussions about compiler development or text-based user interfaces (TUIs).
 - **Goals 🌱💡**: Trying to hone my skills and learn to become #1 coder.
-- **Ask Me About 🤖💻**: Programming, compilers, TUIs, i also like creative and interesting projects.
-- **2026-Q1 Goal 🎯**: Successfully launch the GGUI 0.1.8.5 update. And start working on Evie re-write.
+- **Ask Me About 🤖💻**: Programming, compilers, TUIs and ecma-48/35 standard protocol. 
+- **2027 Goal 🎯**: Finish GGUI 0.1.9 and start GGUI 0.2.
 - **Why❓**: I love being creative and coding is a great tool to be so.
 - **Additional Interests 🎶**: I also love making music. [Spotify](https://open.spotify.com/artist/1XRQD1bavXHE5vVu77Y2xR?si=Tv-CgomvQyOG4gnbosSLDQ)
 <br>
